@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mel-hada/philosophers?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/mel-hada/philosophers?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/mel-hada/philosophers?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/mel-hada/philosophers?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mel-hada/philosophers?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/m0hs1ne/philosophers?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/m0hs1ne/philosophers?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/m0hs1ne/philosophers?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/m0hs1ne/philosophers?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/m0hs1ne/philosophers?color=green" />
 </p>
 
 <h3 align="center">
