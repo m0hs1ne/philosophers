@@ -1,5 +1,5 @@
 <h1 align="center">
-	🎮 So_long
+	👨‍🎓Philososphers
 </h1>
 
 <p align="center">
